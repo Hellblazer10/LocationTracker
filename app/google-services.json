@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "718345464518",
+    "firebase_url": "https://mylocationproject-57729.firebaseio.com",
+    "project_id": "mylocationproject-57729",
+    "storage_bucket": "mylocationproject-57729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718345464518:android:41656a612353c689",
+        "android_client_info": {
+          "package_name": "com.github.abdularis.trackmylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718345464518-ahaogt8gpua1bk80es28umu1prj23m0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_po5-Qld_RYoawbsProbqD6zQQEwkoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718345464518:android:8cb261f25c4bc28e",
+        "android_client_info": {
+          "package_name": "viet.umesh.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718345464518-ln97aue8bsld8tqc20a4ee5j3tb9k77k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "viet.umesh.locationtracker",
+            "certificate_hash": "ae9a18b19bf2c74e31f80b9971d7f7f1680371b3"
+          }
+        },
+        {
+          "client_id": "718345464518-ahaogt8gpua1bk80es28umu1prj23m0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_po5-Qld_RYoawbsProbqD6zQQEwkoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718345464518-ahaogt8gpua1bk80es28umu1prj23m0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
